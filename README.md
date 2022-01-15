@@ -26,7 +26,7 @@ pkg install python2
 
 pkg install git
 
-git clone https://github.com/C7836-5M1L3/HACK-FREE-FIRE
+git clone https:github.com/Kavindu-2k03/FF_HACK-_KEVIN-.git
 
 cd HACK-FREE-FIRE
 
